@@ -1,0 +1,22 @@
+[ {
+  "title" : "The Last of Us Part II",
+  "plataforma" : {
+    "nombre" : "PlayStation 5",
+    "fabricante" : "Sony"
+  },
+  "genre" : "Action",
+  "developers" : [ {
+    "nombre" : "Naughty Dog",
+    "pais" : "United States"
+  } ],
+  "releaseDate" : "2020-06-19",
+  "reviews" : [ {
+    "comentario" : "Incredible visuals and story.",
+    "fecha" : "05-08-2022",
+    "rating" : 5
+  }, {
+    "comentario" : "Best graphics ever!",
+    "fecha" : "15-09-2022",
+    "rating" : 5
+  } ]
+} ]
